@@ -30,9 +30,8 @@ export const Details = () => {
 
 
     if (!show) {
-        console.log(show);
         
-        // return <Navigate to='/' />
+        return <Navigate to='/#' />
     }
 
 
