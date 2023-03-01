@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tv-shows-app/static/css/main.e6c13ad2.css",
+    "main.js": "/tv-shows-app/static/js/main.6fdb4cdb.js",
+    "static/js/787.28899943.chunk.js": "/tv-shows-app/static/js/787.28899943.chunk.js",
+    "index.html": "/tv-shows-app/index.html",
+    "main.e6c13ad2.css.map": "/tv-shows-app/static/css/main.e6c13ad2.css.map",
+    "main.6fdb4cdb.js.map": "/tv-shows-app/static/js/main.6fdb4cdb.js.map",
+    "787.28899943.chunk.js.map": "/tv-shows-app/static/js/787.28899943.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6fdb4cdb.js"
+  ]
+}
