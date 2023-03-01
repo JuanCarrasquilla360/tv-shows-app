@@ -10,6 +10,9 @@ export const Details = () => {
     const { showId } = useParams();
     const navigate = useNavigate()
 
+    console.log(showId);
+    
+
 
     const idArray = showId?.split("-")
 
@@ -21,6 +24,7 @@ export const Details = () => {
     // @ts-ignore
 
     const show = showSelected.filter(show => show.id === +idArray[1])[0]
+    console.log(show);
     
     const imagePath = `http://image.tmdb.org/t/p/w500${show.poster_path}`;
     
