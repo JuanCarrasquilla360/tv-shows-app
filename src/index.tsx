@@ -13,7 +13,7 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <Provider store={store}>
-      <HashRouter basename='/tv-shows-app'>
+      <HashRouter>
         <App />
       </HashRouter>
     </Provider>
