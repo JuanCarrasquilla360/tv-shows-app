@@ -48,7 +48,7 @@ export const Card = ({
                         </p>
 
 
-                        <Link to={`/show/${publisher}-${id}`}>
+                        <Link to={`/#/show/${publisher}-${id}`}>
                             Más...
                         </Link>
 
